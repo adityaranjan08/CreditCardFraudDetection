@@ -98,12 +98,4 @@ The best performing model was [insert best model], which achieved the following 
 - F1-Score: X.XX
 - ROC-AUC: X.XX
 
-## Contributing
-Contributions are welcome! Please read the [contributing guidelines](CONTRIBUTING.md) before submitting a pull request.
 
-## License
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
----
-
-Feel free to customize the sections based on the specifics of your project.
