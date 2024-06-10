@@ -1,6 +1,4 @@
-# CreditCardFraudDetectionHere's a comprehensive README for the Credit Card Fraud Detection project:
 
----
 
 # Credit Card Fraud Detection
 
