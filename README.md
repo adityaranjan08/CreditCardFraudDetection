@@ -11,8 +11,6 @@ This project aims to develop and evaluate machine learning models to detect frau
 - [Usage](#usage)
 - [Models and Evaluation](#models-and-evaluation)
 - [Results](#results)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Dataset
 The dataset used in this project is from Kaggle and contains transactions made by European cardholders in September 2013. It includes:
