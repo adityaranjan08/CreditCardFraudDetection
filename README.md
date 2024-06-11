@@ -89,11 +89,11 @@ We evaluated the models using:
 - ROC-AUC
 
 ## Results
-The best performing model was [insert best model], which achieved the following metrics on the test set:
-- Accuracy: X.XX
-- Precision: X.XX
-- Recall: X.XX
-- F1-Score: X.XX
-- ROC-AUC: X.XX
+The best performing model was [KNeighborsClassifier], which achieved the following metrics on the test set:
+- Accuracy: 94.46925998874508
+- Precision: 89.13372256612267
+- Recall: 99.78147885660287
+- F1-Score: 94.15753297417795
+- ROC-AUC: 94.98147228281107
 
 
