@@ -1,5 +1,4 @@
 
-
 # Credit Card Fraud Detection
 
 This project aims to develop and evaluate machine learning models to detect fraudulent credit card transactions. The dataset used is highly imbalanced, with the positive class (frauds) accounting for only 0.172% of all transactions.
